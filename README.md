@@ -2,8 +2,8 @@
 # Aurtor: Isaura Banguera
 ## Lista de elementos
 - Elemnto 1
-- Elemnto 1
-- Elemnto 1
+- Elemnto 2
+- Elemnto 3
 
 ## Seccion de codigo
 ```bash
